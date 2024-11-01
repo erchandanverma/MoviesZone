@@ -1,0 +1,20 @@
+{
+    "services":[
+    {
+      "id": 1,
+      "name": "Website Development",
+      "description": "Full-stack development services for digital media websites."
+    },
+    {
+      "id": 2,
+      "name": "Image Carousel Creation",
+      "description": "Custom image carousel development for enhanced media display."
+    },
+    {
+      "id": 3,
+      "name": "Website Maintenance",
+      "description": "Ongoing maintenance and support services for digital media websites."
+    }
+  ]
+}  
+  
